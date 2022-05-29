@@ -6,6 +6,10 @@
 
 Primeramente se hace el S3 publico para los fines de la entrega 
 
+https://datahadoopdavidgc.s3.amazonaws.com/datatest0/
+
+https://datahadoopdavidgc.s3.amazonaws.com/datatest0/datasets/airlines.csv
+
 https://bobbyhadz.com/blog/aws-s3-allow-public-read-access
 
 ## SSH
