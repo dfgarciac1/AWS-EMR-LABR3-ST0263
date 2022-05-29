@@ -32,8 +32,8 @@ Then click in this components
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/53051443/170847164-de88aee2-eb60-4201-9cc8-1e8ae5c60e5d.png">
 
 <img width="887" alt="image" src="https://user-images.githubusercontent.com/53051443/170847209-f1f7bcef-2bcb-47b6-8b64-73145bc43033.png">
-```json
 
+```json
 [
     {
         "Classification": "jupyter-s3-conf",
