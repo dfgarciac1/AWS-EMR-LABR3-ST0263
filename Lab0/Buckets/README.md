@@ -25,3 +25,10 @@ please follow AWS [Bucket naming rules](https://docs.aws.amazon.com/AmazonS3/lat
 <img width="793" alt="image" src="https://user-images.githubusercontent.com/53051443/170846727-55d6d1c2-8dea-409a-9dd7-072c172fdabd.png">
 
 
+### Create Folder 
+
+<img width="791" alt="image" src="https://user-images.githubusercontent.com/53051443/170846747-226ec1aa-bfa7-4bc2-81b3-a62d3b8aab7f.png">
+<img width="782" alt="image" src="https://user-images.githubusercontent.com/53051443/170846748-78795ecc-bc96-4b46-af10-91cbcb294b0e.png">
+
+
+
