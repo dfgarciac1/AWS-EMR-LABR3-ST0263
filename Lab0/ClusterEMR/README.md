@@ -55,4 +55,7 @@ Configure the instance hardware
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/53051443/170847393-f88c00b8-7769-4e22-868e-e98857350f40.png">
 
+## Security Group EMR
+
+<img width="935" alt="image" src="https://user-images.githubusercontent.com/53051443/170847837-c385ce18-7b10-4152-9d37-502ad8c21346.png">
 
