@@ -45,5 +45,14 @@ Then click in this components
 ]
 ```
 
+Configure the instance hardware
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/53051443/170847288-631106e7-37b8-477f-b582-446ef6abc117.png">
+
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/53051443/170847319-2326e68e-50a4-4dd9-8b4d-d12e8ef76b5e.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/53051443/170847373-68076c35-8234-4027-8517-8e1d58bd8998.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/53051443/170847386-52114419-a0d3-40b6-b3ed-689b427fe107.png">
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/53051443/170847393-f88c00b8-7769-4e22-868e-e98857350f40.png">
 
 
