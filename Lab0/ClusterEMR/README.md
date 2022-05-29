@@ -59,3 +59,7 @@ Configure the instance hardware
 
 <img width="935" alt="image" src="https://user-images.githubusercontent.com/53051443/170847837-c385ce18-7b10-4152-9d37-502ad8c21346.png">
 
+# Connect  ssh 
+
+<img width="872" alt="image" src="https://user-images.githubusercontent.com/53051443/170847857-750be1df-11c2-4880-8eea-c28700ad9da0.png">
+
